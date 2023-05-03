@@ -1,0 +1,426 @@
+[
+    {
+        "name": "Gennaro Contaldo",
+        "image_url": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?w=996&t=st=1683100149~exp=1683100749~hmac=2e339d4b8300d96ac6ab4958a89ca626e951e2218ea7321cd08f5a354b8f0dd2",
+        "bio": "Gennaro Contaldo is an Italian chef and restaurateur who has been cooking for over 50 years. He is a regular on television shows and has written several cookbooks.",
+        "num_recipes": 6,
+        "years_experience": 50,
+        "likes_count": 10000,
+        "recipes": [
+          {
+            "name": "Spaghetti Carbonara",
+            "photo": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=996&t=st=1683100575~exp=1683101175~hmac=ffc9c725f93e07c51d364f064645345762dc81d391ca0c2d57aceaa7a694390d",
+            "ingredients": [
+              "Spaghetti",
+              "Pancetta",
+              "Eggs",
+              "Parmesan Cheese",
+              "Black Pepper"
+            ],
+            "cooking_method": "Boil spaghetti, fry pancetta, whisk eggs and cheese, combine all ingredients and toss.",
+            "rating": 4.8
+          },
+          {
+            "name": "Tiramisu",
+            "photo": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14395.jpg?w=996&t=st=1683100945~exp=1683101545~hmac=e8bdd6ae752b76ef9b901c27e5c7d0e5e64a6d824488416a676243963761bb44",
+            "ingredients": [
+              "Ladyfingers",
+              "Mascarpone Cheese",
+              "Eggs",
+              "Sugar",
+              "Coffee",
+              "Cocoa Powder"
+            ],
+            "cooking_method": "Dip ladyfingers in coffee, layer with mascarpone mixture, sprinkle with cocoa powder, refrigerate.",
+            "rating": 4.9
+          },
+          {
+            "name": "Margherita Pizza",
+            "photo": "https://img.freepik.com/free-photo/tasty-homemade-traditional-pizza-italian-recipe_24972-2141.jpg?w=996&t=st=1683100843~exp=1683101443~hmac=b95539ad9e474e208a015c54ee2cb4911dd65699ddb8875f54cc43c4db6d0767",
+            "ingredients": [
+              "Pizza Dough",
+              "Tomato Sauce",
+              "Mozzarella Cheese",
+              "Basil",
+              "Olive Oil"
+            ],
+            "cooking_method": "Roll out dough, spread sauce, top with cheese and basil, drizzle with olive oil, bake.",
+            "rating": 4.7
+          },
+          {
+            "name": "Risotto alla Milanese",
+            "photo": "https://img.freepik.com/free-photo/pasta-spaghetti-with-shrimps-sauce_1220-5072.jpg?w=996&t=st=1683101136~exp=1683101736~hmac=f3e90794c224e59d0c9768e480de260b22597222bd0eb16a980a3f140679796c",
+            "ingredients": [
+              "Risotto Rice",
+              "Butter",
+              "Onion",
+              "White Wine",
+              "Saffron",
+              "Parmesan Cheese"
+            ],
+            "cooking_method": "Sauté onion in butter, add rice and wine, add saffron and broth, stir in cheese.",
+            "rating": 4.6
+          }
+        ]
+    },
+    {
+        "name": "Mario Batali",
+        "image_url": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?w=740&t=st=1683100191~exp=1683100791~hmac=ba55de8a11e1a0e2b8124cfea40d9677da061937c758fa1cb2a705943759e7bc",
+        "bio": "Mario Batali is an American chef, restaurateur, and media personality. He is known for his Italian cuisine and has several restaurants around the world.",
+        "num_recipes": 10,
+        "years_experience": 30,
+        "likes_count": 12000,
+        "recipes": [
+          {
+            "name": "Spaghetti Carbonara",
+            "photo": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=996&t=st=1683100575~exp=1683101175~hmac=ffc9c725f93e07c51d364f064645345762dc81d391ca0c2d57aceaa7a694390d",
+            "ingredients": [
+              "Spaghetti Pasta",
+              "Guanciale",
+              "Egg Yolks",
+              "Parmigiano Reggiano Cheese",
+              "Pecorino Romano Cheese",
+              "Black Pepper"
+            ],
+            "cooking_method": "Cook pasta, sauté guanciale, mix egg yolks and cheese, toss with pasta and pepper.",
+            "rating": 4.8
+          },
+          {
+            "name": "Osso Buco",
+            "photo": "https://img.freepik.com/premium-photo/pasta-fettuccine-bolognese-with-tomato-sauce-white-bowl_2829-1117.jpg?w=996",
+            "ingredients": [
+              "Veal Shanks",
+              "Onion",
+              "Carrots",
+              "Celery",
+              "Garlic",
+              "Tomato Paste",
+              "White Wine",
+              "Chicken Broth",
+              "Bay Leaves",
+              "Thyme",
+              "Gremolata"
+            ],
+            "cooking_method": "Sear veal shanks, sauté onion, carrots, celery, garlic, add tomato paste, wine, broth, herbs, and shanks, simmer until tender, garnish with gremolata.",
+            "rating": 4.9
+          },
+          {
+            "name": "Fettuccine Alfredo",
+            "photo": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14395.jpg?w=996&t=st=1683100945~exp=1683101545~hmac=e8bdd6ae752b76ef9b901c27e5c7d0e5e64a6d824488416a676243963761bb44",
+            "ingredients": [
+              "Fettuccine Pasta",
+              "Butter",
+              "Heavy Cream",
+              "Parmesan Cheese",
+              "Black Pepper"
+            ],
+            "cooking_method": "Cook pasta, melt butter and cream, add cheese and pepper, toss with pasta.",
+            "rating": 4.7
+          },
+          {
+            "name": "Linguine with Clams",
+            "photo": "https://img.freepik.com/free-photo/tasty-appetizing-classic-italian-spaghetti-pasta-with-tomato-sauce-cheese-parmesan-basil-plate-ingredients-cooking-pasta-dark-table-flat-lay-top-view-copy-spce_1150-45812.jpg?w=996&t=st=1683101363~exp=1683101963~hmac=c4fd4fac4e98560c6b2a45127119c68f6d552479e82aa5d5f81d6147c757276f",
+            "ingredients": [
+              "Linguine Pasta",
+              "Clams",
+              "Garlic",
+              "Red Pepper Flakes",
+              "White Wine",
+              "Parsley",
+              "Lemon Juice"
+            ],
+            "cooking_method": "Cook pasta, sauté garlic and red pepper, add clams and wine, cover and simmer until clams open, toss with pasta and parsley, finish with lemon juice.",
+            "rating": 4.6
+          }
+        ]
+    },
+    {
+        "name": "Massimo Bottura",
+        "image_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=996&t=st=1683100312~exp=1683100912~hmac=0ee9acc51c0113ea9d1f7e7d5d04b6c78dbd5a0276e6a5f0b73c1fcb23f210c6",
+        "bio": "Massimo Bottura is an Italian chef and restaurateur. He is known for his modern interpretation of Italian cuisine and is the owner of the three-Michelin-starred restaurant Osteria Francescana in Modena, Italy.",
+        "num_recipes": 6,
+        "years_experience": 15,
+        "likes_count": 14000,
+        "recipes": [
+          {
+            "name": "Tortellini with Parmigiano Reggiano Cream",
+            "photo": "https://img.freepik.com/free-photo/tasty-appetizing-classic-italian-spaghetti-pasta-with-tomato-sauce-cheese-parmesan-basil-plate-ingredients-cooking-pasta-dark-table-flat-lay-top-view-copy-spce_1150-45812.jpg?w=996&t=st=1683101363~exp=1683101963~hmac=c4fd4fac4e98560c6b2a45127119c68f6d552479e82aa5d5f81d6147c757276f",
+            "ingredients": [
+              "Tortellini Pasta",
+              "Parmigiano Reggiano Cheese",
+              "Heavy Cream",
+              "Butter",
+              "Pepper"
+            ],
+            "cooking_method": "Cook pasta, melt butter and cream, add cheese and pepper, toss with pasta.",
+            "rating": 4.9
+          },
+          {
+            "name": "Risotto with Radicchio and Gorgonzola",
+            "photo": "https://img.freepik.com/free-photo/pasta-spaghetti-with-shrimps-sauce_1220-5072.jpg?w=996&t=st=1683101136~exp=1683101736~hmac=f3e90794c224e59d0c9768e480de260b22597222bd0eb16a980a3f140679796c",
+            "ingredients": [
+              "Arborio Rice",
+              "Radicchio",
+              "Gorgonzola Cheese",
+              "Onion",
+              "White Wine",
+              "Parmigiano Reggiano Cheese",
+              "Butter"
+            ],
+            "cooking_method": "Sauté onion and radicchio, add rice and wine, add broth gradually, stir in cheese and butter.",
+            "rating": 4.7
+          },
+          {
+            "name": "Osso Buco",
+            "photo": "https://img.freepik.com/premium-photo/pasta-fettuccine-bolognese-with-tomato-sauce-white-bowl_2829-1117.jpg?w=996",
+            "ingredients": [
+              "Veal Shanks",
+              "Onion",
+              "Carrots",
+              "Celery",
+              "Garlic",
+              "Tomato Paste",
+              "White Wine",
+              "Chicken Broth",
+              "Bay Leaves",
+              "Thyme",
+              "Gremolata"
+            ],
+            "cooking_method": "Sear veal shanks, sauté onion, carrots, celery, garlic, add tomato paste, wine, broth, herbs, and shanks, simmer until tender, garnish with gremolata.",
+            "rating": 4.9
+          },
+          {
+            "name": "Fettuccine Alfredo",
+            "photo": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14395.jpg?w=996&t=st=1683100945~exp=1683101545~hmac=e8bdd6ae752b76ef9b901c27e5c7d0e5e64a6d824488416a676243963761bb44",
+            "ingredients": [
+              "Fettuccine Pasta",
+              "Butter",
+              "Heavy Cream",
+              "Parmesan Cheese",
+              "Black Pepper"
+            ],
+            "cooking_method": "Cook pasta, melt butter and cream, add cheese and pepper, toss with pasta.",
+            "rating": 4.7
+          },
+          {
+            "name": "Linguine with Clams",
+            "photo": "https://img.freepik.com/free-photo/tasty-appetizing-classic-italian-spaghetti-pasta-with-tomato-sauce-cheese-parmesan-basil-plate-ingredients-cooking-pasta-dark-table-flat-lay-top-view-copy-spce_1150-45812.jpg?w=996&t=st=1683101363~exp=1683101963~hmac=c4fd4fac4e98560c6b2a45127119c68f6d552479e82aa5d5f81d6147c757276f",
+            "ingredients": [
+              "Linguine Pasta",
+              "Clams",
+              "Garlic",
+              "Red Pepper Flakes",
+              "White Wine",
+              "Parsley",
+              "Lemon Juice"
+            ],
+            "cooking_method": "Cook pasta, sauté garlic and red pepper, add clams and wine, cover and simmer until clams open, toss with pasta and parsley, finish with lemon juice.",
+            "rating": 4.6
+          }
+        ]
+    },
+    {
+        "name": "Giada De Laurentiis",
+        "image_url": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1683100248~exp=1683100848~hmac=5ecc0e4620d5d1585ad2347e018918d5d39e127e057ae1c6c39bfa3ac511ea29",
+        "bio": "Giada De Laurentiis is an Italian-American chef, author, and television personality. She is known for her Italian cuisine and has hosted several cooking shows on television.",
+        "num_recipes": 7,
+        "years_experience": 20,
+        "likes_count": 11000,
+        "recipes": [
+          {
+            "name": "Lemon Spaghetti",
+            "photo": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=996&t=st=1683100575~exp=1683101175~hmac=ffc9c725f93e07c51d364f064645345762dc81d391ca0c2d57aceaa7a694390d",
+            "ingredients": [
+              "Spaghetti Pasta",
+              "Lemon",
+              "Garlic",
+              "Parmesan Cheese",
+              "Olive Oil",
+              "Basil"
+            ],
+            "cooking_method": "Cook pasta, sauté garlic, add lemon juice and zest, add pasta and cheese, toss with olive oil and basil.",
+            "rating": 4.5
+          },
+          {
+            "name": "Tiramisu",
+            "photo": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14395.jpg?w=996&t=st=1683100945~exp=1683101545~hmac=e8bdd6ae752b76ef9b901c27e5c7d0e5e64a6d824488416a676243963761bb44",
+            "ingredients": [
+              "Ladyfingers",
+              "Mascarpone Cheese",
+              "Eggs",
+              "Sugar",
+              "Coffee",
+              "Cocoa Powder"
+            ],
+            "cooking_method": "Dip ladyfingers in coffee, layer with mascarpone mixture, sprinkle with cocoa powder, refrigerate.",
+            "rating": 4.9
+          },
+          {
+            "name": "Margherita Pizza",
+            "photo": "https://img.freepik.com/free-photo/tasty-homemade-traditional-pizza-italian-recipe_24972-2141.jpg?w=996&t=st=1683100843~exp=1683101443~hmac=b95539ad9e474e208a015c54ee2cb4911dd65699ddb8875f54cc43c4db6d0767",
+            "ingredients": [
+              "Pizza Dough",
+              "Tomato Sauce",
+              "Mozzarella Cheese",
+              "Basil",
+              "Olive Oil"
+            ],
+            "cooking_method": "Roll out dough, spread sauce, top with cheese and basil, drizzle with olive oil, bake.",
+            "rating": 4.7
+          },
+          {
+            "name": "Risotto alla Milanese",
+            "photo": "https://img.freepik.com/free-photo/pasta-spaghetti-with-shrimps-sauce_1220-5072.jpg?w=996&t=st=1683101136~exp=1683101736~hmac=f3e90794c224e59d0c9768e480de260b22597222bd0eb16a980a3f140679796c",
+            "ingredients": [
+              "Risotto Rice",
+              "Butter",
+              "Onion",
+              "White Wine",
+              "Saffron",
+              "Parmesan Cheese"
+            ],
+            "cooking_method": "Sauté onion in butter, add rice and wine, add saffron and broth, stir in cheese.",
+            "rating": 4.6
+          }
+        ]
+    },
+    {
+        "name": "Nigella Lawson",
+        "image_url": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?w=996&t=st=1683100377~exp=1683100977~hmac=a042b2ffbd3c0bb5cca52e464500933ba69fa6218669eb917bf7f0841a4ae0fb",
+        "bio": "Nigella Lawson is a British chef, author, and television personality. She is known for her relaxed cooking style and has written several bestselling cookbooks.",
+        "num_recipes": 4,
+        "years_experience": 10,
+        "likes_count": 8000,
+        "recipes": [
+          {
+            "name": "Chocolate Guinness Cake",
+            "photo": "https://img.freepik.com/free-photo/piece-chocolate-cake-with-berries_140725-3538.jpg?w=740&t=st=1683101271~exp=1683101871~hmac=e65cae5a4233b8d4bddd83d56a962dc1ec0fe85ad4da0455be5f2e886037e7b3",
+            "ingredients": [
+              "Butter",
+              "Guinness Beer",
+              "Cocoa Powder",
+              "Sugar",
+              "Sour Cream",
+              "Eggs",
+              "Flour",
+              "Baking Soda"
+            ],
+            "cooking_method": "Melt butter with Guinness, add cocoa and sugar, whisk in sour cream and eggs, add flour and baking soda, bake.",
+            "rating": 4.8
+          },
+          {
+            "name": "Linguine with Clams",
+            "photo": "https://img.freepik.com/free-photo/tasty-appetizing-classic-italian-spaghetti-pasta-with-tomato-sauce-cheese-parmesan-basil-plate-ingredients-cooking-pasta-dark-table-flat-lay-top-view-copy-spce_1150-45812.jpg?w=996&t=st=1683101363~exp=1683101963~hmac=c4fd4fac4e98560c6b2a45127119c68f6d552479e82aa5d5f81d6147c757276f",
+            "ingredients": [
+              "Linguine Pasta",
+              "Clams",
+              "Garlic",
+              "Chili Flakes",
+              "White Wine",
+              "Parsley",
+              "Lemon"
+            ],
+            "cooking_method": "Cook pasta, sauté garlic and chili, add clams and wine, cover and simmer, toss with pasta and parsley, serve with lemon.",
+            "rating": 4.7
+          },
+          {
+            "name": "Pesto Pasta",
+            "photo": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=996&t=st=1683100575~exp=1683101175~hmac=ffc9c725f93e07c51d364f064645345762dc81d391ca0c2d57aceaa7a694390d",
+            "ingredients": [
+              "Pasta",
+              "Basil",
+              "Pine Nuts",
+              "Garlic",
+              "Parmesan Cheese",
+              "Olive Oil"
+            ],
+            "cooking_method": "Blend basil, pine nuts, garlic, cheese, and oil, cook pasta, toss with pesto.",
+            "rating": 4.4
+          },
+          {
+            "name": "Beef Wellington",
+            "photo": "https://img.freepik.com/free-photo/side-view-lamb-rib-kebab-plate-served-with-bottle-red-wine_140725-11985.jpg?w=360&t=st=1683101466~exp=1683102066~hmac=09d8515727eb48e101b7899a29e0631f3df62964ca3a70b025686dd115ff065c",
+            "ingredients": [
+              "Beef Tenderloin",
+              "Puff Pastry",
+              "Mushrooms",
+              "Prosciutto",
+              "Egg Wash"
+            ],
+            "cooking_method": "Sear beef, sauté mushrooms and prosciutto, wrap in puff pastry, brush with egg wash, bake.",
+            "rating": 4.7
+          }
+        ]
+    },
+    {
+        "name": "Lidia Bastianich",
+        "image_url": "https://img.freepik.com/free-photo/melted-chocolate-confectioner-with-whisk_1157-47278.jpg?w=996&t=st=1683100523~exp=1683101123~hmac=69b9e0e05312a54c0821b383c45fd7fa8eb58cc5080c05747ff9058f0b59a4bb",
+        "bio": "Lidia Bastianich is an Italian-American chef, restaurateur, and television personality. She is known for her Italian cuisine and has written several cookbooks.",
+        "num_recipes": 8,
+        "years_experience": 15,
+        "likes_count": 10000,
+        "recipes": [
+            {
+                "name": "Margherita Pizza",
+                "photo": "https://img.freepik.com/free-photo/tasty-homemade-traditional-pizza-italian-recipe_24972-2141.jpg?w=996&t=st=1683100843~exp=1683101443~hmac=b95539ad9e474e208a015c54ee2cb4911dd65699ddb8875f54cc43c4db6d0767",
+                "ingredients": [
+                  "Pizza Dough",
+                  "Tomato Sauce",
+                  "Mozzarella Cheese",
+                  "Basil",
+                  "Olive Oil"
+                ],
+                "cooking_method": "Roll out dough, spread sauce, top with cheese and basil, drizzle with olive oil, bake.",
+                "rating": 4.7
+              },
+              {
+                "name": "Risotto alla Milanese",
+                "photo": "https://img.freepik.com/free-photo/pasta-spaghetti-with-shrimps-sauce_1220-5072.jpg?w=996&t=st=1683101136~exp=1683101736~hmac=f3e90794c224e59d0c9768e480de260b22597222bd0eb16a980a3f140679796c",
+                "ingredients": [
+                  "Risotto Rice",
+                  "Butter",
+                  "Onion",
+                  "White Wine",
+                  "Saffron",
+                  "Parmesan Cheese"
+                ],
+                "cooking_method": "Sauté onion in butter, add rice and wine, add saffron and broth, stir in cheese.",
+                "rating": 4.6
+              },
+              {
+                "name": "Risotto with Radicchio and Gorgonzola",
+                "photo": "https://img.freepik.com/free-photo/pasta-spaghetti-with-shrimps-sauce_1220-5072.jpg?w=996&t=st=1683101136~exp=1683101736~hmac=f3e90794c224e59d0c9768e480de260b22597222bd0eb16a980a3f140679796c",
+                "ingredients": [
+                  "Arborio Rice",
+                  "Radicchio",
+                  "Gorgonzola Cheese",
+                  "Onion",
+                  "White Wine",
+                  "Parmigiano Reggiano Cheese",
+                  "Butter"
+                ],
+                "cooking_method": "Sauté onion and radicchio, add rice and wine, add broth gradually, stir in cheese and butter.",
+                "rating": 4.7
+              },
+              {
+                "name": "Osso Buco",
+                "photo": "https://img.freepik.com/premium-photo/pasta-fettuccine-bolognese-with-tomato-sauce-white-bowl_2829-1117.jpg?w=996",
+                "ingredients": [
+                  "Veal Shanks",
+                  "Onion",
+                  "Carrots",
+                  "Celery",
+                  "Garlic",
+                  "Tomato Paste",
+                  "White Wine",
+                  "Chicken Broth",
+                  "Bay Leaves",
+                  "Thyme",
+                  "Gremolata"
+                ],
+                "cooking_method": "Sear veal shanks, sauté onion, carrots, celery, garlic, add tomato paste, wine, broth, herbs, and shanks, simmer until tender, garnish with gremolata.",
+                "rating": 4.9
+              }
+        ]
+    }
+]
