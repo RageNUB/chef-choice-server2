@@ -14,7 +14,6 @@ app.get("/chef-info", (req,res) => {
 app.get("/chef-info/:id", (req,res)=> {
     const id = req.params.id;
     const chefInfo = chefData.find(chef=> chef.id == id)
-    console.log(chefInfo);
     res.send(chefInfo);
 })
 
